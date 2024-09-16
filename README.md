@@ -11,7 +11,9 @@ Database Schema:
 
 ER Diagram:
 
-The Entity-Relationship Diagram (ERD) can be found here.
+The Entity-Relationship Diagram (ERD) can be found below.
+![image](https://github.com/user-attachments/assets/1ba3842a-b9f4-4f53-95fc-668f4c5bcece)
+
 How to Run the SQL Script:
 
     Run the down-up SQL script provided in this repository.
